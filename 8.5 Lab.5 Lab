@@ -1,0 +1,27 @@
+8.5 Lab
+'use strict'
+let animals = ['Lion','Tiger','Zebra','Donkey','Catfish'];
+console.log(animals);
+let numbers = [42,8,12,30];
+console.log(numbers);
+let (myTiger)=2;
+let meaningOfLife=(numbers,42);
+let mixedData = [101,'dog',6,'George Washington','true','null'];
+consold.log(mixedData);
+animals[5]= 'cobra';
+mixedData[6]=animals[shark];
+console.log(mixedData); 
+animals[5] = 'Cobra'
+console.log(animals);
+mixedData[6] = animals[3];
+console.log(mixedData);
+animals.pop(); 
+console.log(animals);
+animals.push('Shark'); 
+console.log(animals);
+let myLion = animals.shift()  
+console.log(myLion);
+console.log(animals);
+animals.unshift(myLion); 
+console.log(animals);
+
